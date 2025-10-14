@@ -91,5 +91,5 @@ hiddenElements.forEach((el)=>observer.observe(el));
 //     }
 // }
 
-// window.addEventListener('scroll', changeBG)
+ window.addEventListener('scroll', changeBG)
 

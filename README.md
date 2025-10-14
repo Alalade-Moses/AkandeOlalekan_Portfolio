@@ -1,75 +1,101 @@
-# Bhavya Parmar – Graphic Design Portfolio
+ 
+# 🎨 Graphics Designer Portfolio
 
-Welcome to my personal portfolio website! This site showcases a curated collection of my work as a **graphic designer**, including past projects, creative explorations, and professional highlights. It serves as a visual résumé and creative space for anyone interested in my design journey.
+## 🖌️ Overview
 
-Developed by me as part of the **Metis Summer Project 2024** at **IIT Gandhinagar’s Web & App Dev Club**.
+This project is a **personal portfolio website** built to showcase my **graphic design skills, creative projects, and professional experience**. It highlights my expertise in digital design, branding, UI/UX, and visual communication.
 
----
+The portfolio is built with **HTML, CSS, and JavaScript**, focusing on a **clean, responsive, and visually appealing interface that reflects a modern creative identity.
 
-## Table of Contents
 
-- [Overview](#overview)  
-- [Live Website](#live-website)  
-- [Technologies Used](#technologies-used)  
-- [Getting Started](#getting-started)  
-- [Contact](#contact)  
+## 🚀 Features
 
----
-
-## Overview
-
-This website is a reflection of my passion for visual storytelling and design. From branding and illustrations to UI graphics and poster design, the portfolio brings together my diverse creative projects in one place.
-
-Whether you're a recruiter, collaborator, or fellow designer—welcome, and I hope you find something that inspires you.
+* Home Section: Eye-catching hero section introducing the designer and personal brand.
+* About Section: Brief biography, design philosophy, and areas of expertise.
+* Portfolio Section: Visual gallery of completed projects (logos, posters, illustrations, mockups, etc.).
+* Services Section: Overview of offered design services.
+* Contact Section:Functional contact form and links to social media.
+* Responsive Design: Fully optimized for desktop, tablet, and mobile viewing.
+*Interactive Elements: Smooth animations and hover effects using JavaScript and CSS transitions.
 
 ---
 
-## Live Website
+## 🛠️ Tech Stack
 
-Check out the live version of the portfolio here:  
-🔗 [https://bhavya-parmar.github.io/portfolio_website](https://bhavya-parmar.github.io/portfolio_website/)
-
----
-
-## Technologies Used
-
-- **HTML5** – Semantic markup to structure content  
-- **CSS3** – Custom styling and layout design  
-- **JavaScript** – Light interactivity and animation handling  
+* Frontend:HTML5, CSS3, JavaScript (ES6)
+* Frameworks/Libraries: None (pure codebase)
+* Design Tools Used: Adobe Photoshop, Illustrator, Figma (for mockups)
+* Hosting:GitHub Pages 
 
 ---
 
-## Getting Started
+## 📁 Project Structure
 
-To view the site locally:
+```
+portfolio/
+│
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── Script.js
+├── assets/
+│   ├── images/
+│   └── icons/
+└── README.md
+```
 
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/bhavya-parmar/portfolio_website.git
-
-
-## Installation
-
-To run this project locally, follow these steps:
-
-1. **Clone the repository:**
-    ```sh
-    git clone https://github.com/bhavya-parmar/portfolio_website.git
-    ```
-2. **Navigate to the project directory:**
-    ```sh
-    cd portfolio_website
-    ```
-3. **Open `index.html` in your preferred web browser.**
-   
 ---
 
-## Contact
+## ⚙️ Installation and Setup
 
-If you have any questions or suggestions or would like to get in touch, feel free to contact me:
+To run this project locally:
 
-- **Email:** bhavya.parmar@iitgn.ac.in
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/bhavya-parmar/)
-- **Behance:** [My Behance Portfolio](https://www.behance.net/bhavya-parmar)
+1. Clone the repository
 
-Thank you for visiting my portfolio. I hope you enjoy exploring my work!
+   ```bash
+   git clone https://github.com/Alalade-Moses/AkandeOlalekan_Portfolio.git
+   ```
+2. Navigate to the project directory
+
+   ```bash
+   cd portfolio_website
+   ```
+3. Open the `index.html` file in your browser
+
+   ```bash
+   open index.html
+   ```
+
+No additional dependencies are required.
+
+---
+
+## 💡 Customization
+
+You can easily modify the portfolio by:
+
+* Updating personal details and content in `index.html`
+* Replacing placeholder images in the `assets/images` folder
+* Adjusting styles in `css/style.css` to match your brand color scheme
+* Editing animations or effects in `js/main.js`
+
+---
+
+## 📬 Contact
+
+Author:Alalade Moses
+Email: [[(mailto:alalaademoses11@gmail.com)]
+
+---
+
+## 🖤 Acknowledgements
+
+Special thanks to the design and developer communities that inspire creativity and innovation every day.
+
+---
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
